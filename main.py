@@ -81,7 +81,7 @@ def treasure_island():
     elif user_input == "Blue":
         print("Game Over")
     elif user_input == "Yellow":
-        print("You Win!")
+        print("You Win!!")
 
 
 
