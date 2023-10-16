@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="enabledOnReformat" value="true" />
+    <option name="sdkUUID" value="a03ff435-56e5-4c93-b5a2-d171df9bf8af" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (TreasureIsland)" project-jdk-type="Python SDK" />
+</project>
